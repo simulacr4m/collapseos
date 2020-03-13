@@ -128,7 +128,7 @@ run the line (followed by the next, and so on).
 
 `if <cond> <cmds>`: If specified condition is true, execute the rest of the
 line. Otherwise, do nothing. For example, `if 2>1 print 12` prints `12` and `if
-2<1 print 12` does nothing. The argument for this command is a "thruth
+2<1 print 12` does nothing. The argument for this command is a "truth
 expression".
 
 `while <cond> <cmds>`: As long as specified condition is true, execute specified
