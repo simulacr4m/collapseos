@@ -28,7 +28,7 @@ It is very important for Collapse OS to be self-contained, that is, usable and
 hackable with no external ressources. Because of that, code simplicity is
 paramount.
 
-It is also important for Collapse OS to run on very tight ressources. Because of
+It is also important for Collapse OS to run on very tight resources. Because of
 that, code compactness trumps efficiency or features.
 
 All of this means that simplicity is more important than compactness which is
